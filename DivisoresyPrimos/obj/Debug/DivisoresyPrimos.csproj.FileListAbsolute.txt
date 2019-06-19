@@ -1,0 +1,10 @@
+C:\Users\Jonathan Villeda\Documents\PRUEBAS LABORALES\BDG\DivisoresyPrimos\DivisoresyPrimos\bin\Debug\DivisoresyPrimos.exe.config
+C:\Users\Jonathan Villeda\Documents\PRUEBAS LABORALES\BDG\DivisoresyPrimos\DivisoresyPrimos\bin\Debug\DivisoresyPrimos.exe
+C:\Users\Jonathan Villeda\Documents\PRUEBAS LABORALES\BDG\DivisoresyPrimos\DivisoresyPrimos\bin\Debug\DivisoresyPrimos.pdb
+C:\Users\Jonathan Villeda\Documents\PRUEBAS LABORALES\BDG\DivisoresyPrimos\DivisoresyPrimos\obj\Debug\DivisoresyPrimos.csprojAssemblyReference.cache
+C:\Users\Jonathan Villeda\Documents\PRUEBAS LABORALES\BDG\DivisoresyPrimos\DivisoresyPrimos\obj\Debug\DivisoresyPrimos.Form1.resources
+C:\Users\Jonathan Villeda\Documents\PRUEBAS LABORALES\BDG\DivisoresyPrimos\DivisoresyPrimos\obj\Debug\DivisoresyPrimos.Properties.Resources.resources
+C:\Users\Jonathan Villeda\Documents\PRUEBAS LABORALES\BDG\DivisoresyPrimos\DivisoresyPrimos\obj\Debug\DivisoresyPrimos.csproj.GenerateResource.cache
+C:\Users\Jonathan Villeda\Documents\PRUEBAS LABORALES\BDG\DivisoresyPrimos\DivisoresyPrimos\obj\Debug\DivisoresyPrimos.csproj.CoreCompileInputs.cache
+C:\Users\Jonathan Villeda\Documents\PRUEBAS LABORALES\BDG\DivisoresyPrimos\DivisoresyPrimos\obj\Debug\DivisoresyPrimos.exe
+C:\Users\Jonathan Villeda\Documents\PRUEBAS LABORALES\BDG\DivisoresyPrimos\DivisoresyPrimos\obj\Debug\DivisoresyPrimos.pdb
